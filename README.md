@@ -3,7 +3,7 @@
 
 **Cursando la asignatura de Programacion Orientada a Objetos**
 
-<img src="https://wallpaperaccess.com/full/5396658.jpg" style="width:100%; height:180px; object-fit:cover; object-position:50% 130%; " />
+<img src="https://i.pinimg.com/1200x/a4/30/18/a43018d8a38230f8f82dd3e13d2449f4.jpg" style="width:90%; height:180px; object-fit:cover; object-position:50% 130%; " />
 
 ## Mis intereses
 
