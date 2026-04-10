@@ -1,4 +1,4 @@
-# <img src="https://flyclipart.com/thumb2/susuwatari-soot-sprites-dust-bunnies-anime-movies-studio-370622.png" width=10% align=right /> Hola! Mi nombre es Sofia.
+# <img src="[https://flyclipart.com/thumb2/susuwatari-soot-sprites-dust-bunnies-anime-movies-studio-370622.png](https://i.pinimg.com/736x/ea/24/f3/ea24f3fc33d74088a597deab6eb355ce.jpg)" width=10% align=right /> Hola! Mi nombre es Sofia.
 
 
 <!--
