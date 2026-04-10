@@ -1,4 +1,5 @@
-## Hi there 👋
+# <img src="[./images/sticker.png](https://i.pinimg.com/1200x/40/b7/cd/40b7cdf1e7804c3daaf0c393aeb2d0f6.jpg)" width=10% align=right /> Hola! Mi nombre es Sofia.
+
 
 <!--
 **sooofixr/sooofixr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
