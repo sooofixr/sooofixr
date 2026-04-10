@@ -1,4 +1,4 @@
-# <img src="https://eslamoda.com/wp-content/uploads/sites/2/2025/08/descargar-63.jpg" width=15% align=right /> Hola! Mi nombre es Sofia.
+# <img src="https://eslamoda.com/wp-content/uploads/sites/2/2025/08/descargar-63.jpg" width=18% align=right /> Hola! Mi nombre es Sofia.
 **Estudiante de Ingenieria Catastral y geodesia**
 
 **Cursando la asignatura de Programacion Orientada a Objetos**
