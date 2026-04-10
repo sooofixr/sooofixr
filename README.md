@@ -1,4 +1,4 @@
-# <img src="[./images/sticker.png](https://i.pinimg.com/1200x/40/b7/cd/40b7cdf1e7804c3daaf0c393aeb2d0f6.jpg)" width=10% align=right /> Hola! Mi nombre es Sofia.
+# <img src="https://flyclipart.com/thumb2/susuwatari-soot-sprites-dust-bunnies-anime-movies-studio-370622.png" width=10% align=right /> Hola! Mi nombre es Sofia.
 
 
 <!--
