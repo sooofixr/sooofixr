@@ -1,4 +1,4 @@
-# <img src="https://eslamoda.com/wp-content/uploads/sites/2/2025/08/descargar-63.jpg" width=10% align=right /> Hola! Mi nombre es Sofia.
+# <img src="https://eslamoda.com/wp-content/uploads/sites/2/2025/08/descargar-63.jpg" width=30% align=right /> Hola! Mi nombre es Sofia.
 
 
 <!--
