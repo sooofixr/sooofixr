@@ -3,7 +3,7 @@
 
 **Cursando la asignatura de Programacion Orientada a Objetos**
 
-<img src="https://wallpapers.com/images/hd/tales-from-earthsea-1280-x-720-wallpaper-gwpgzvmobtbs6gky.jpg" style="width:100%; height:180px; object-fit:cover; object-position:50% 130%; " />
+<img src="https://wallpaperaccess.com/full/5396658.jpg" style="width:100%; height:180px; object-fit:cover; object-position:50% 130%; " />
 
 ## Mis intereses
 
