@@ -3,7 +3,7 @@
 
 **Cursando la asignatura de Programacion Orientada a Objetos**
 
-<img src="https://wallpaperaccess.com/full/5396658.jpg" style="width:100%; height:200px; object-fit:cover; object-position:70% 150%;" />
+<img src="https://wallpaperaccess.com/full/5396658.jpg" style="width:100%; height:180px; object-fit:cover; object-position:70% 100%;" />
 
 <!--
 **sooofixr/sooofixr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
