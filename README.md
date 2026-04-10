@@ -17,7 +17,7 @@ Con un enfoque en mi proyecto curricular de Ingería Catastral y Geodesia, como 
 
 ## Despliegues
 
-[![GithubDepartamento](https://github.com/sooofixr/OOP_26_1_Intro_745_JAVA.git) 
+[![GithubDepartamento](https://img.shields.io/badge/Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sooofixr/OOP_26_1_Intro_745_JAVA.git) 
 
 
 <!--
