@@ -19,6 +19,10 @@ Con un enfoque en mi proyecto curricular de Ingería Catastral y Geodesia, como 
 
 [![GithubDepartamento](https://img.shields.io/badge/Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sooofixr/OOP_26_1_Intro_745_JAVA.git) 
 
+## Lenguajes
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
 
 <!--
 **sooofixr/sooofixr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
