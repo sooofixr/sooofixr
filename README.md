@@ -3,8 +3,7 @@
 
 **Cursando la asignatura de Programacion Orientada a Objetos**
 
-<a href="https://igijon.netlify.app/" target="_blank"><img src="./images/banner.jpeg" 
-   borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'></a>
+<img src="https://wallpaperaccess.com/full/5396658.jpg" width=100% height=50%/>
 
 <!--
 **sooofixr/sooofixr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
