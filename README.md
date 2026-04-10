@@ -1,4 +1,4 @@
-# <img src="https://i.pinimg.com/736x/96/65/04/9665040d325595b964f544aea7338889.jpg" width=10% align=right /> Hola! Mi nombre es Sofia
+# <img src="https://i.pinimg.com/736x/9b/2c/53/9b2c53ee265802bd151f84b1e94b30ea.jpg" width=20% align=right /> Hola! Mi nombre es Sofia
 **Estudiante de Ingenieria Catastral y geodesia**
 
 **Cursando la asignatura de Programacion Orientada a Objetos**
