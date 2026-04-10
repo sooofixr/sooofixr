@@ -4,7 +4,7 @@
 **Cursando la asignatura de Programacion Orientada a Objetos**
 
 <img src="https://wallpaperaccess.com/full/5396658.jpg" style="width:100%; height:180px; object-fit:cover; object-position:50% 130%;" />
-##Mis intereses
+#Mis intereses
 
 </p>
 Principalmente, apoyo la creatividad, los procesos creativos, y cómo puedo aportar a la comunidad a partir de ellos. 
