@@ -4,7 +4,8 @@
 **Cursando la asignatura de Programacion Orientada a Objetos**
 
 <img src="https://wallpaperaccess.com/full/5396658.jpg" style="width:100%; height:180px; object-fit:cover; object-position:50% 130%;" />
-## Mis intereses
+##Mis intereses
+
 </p>
 Principalmente, apoyo la creatividad, los procesos creativos, y cómo puedo aportar a la comunidad a partir de ellos. 
 Con un enfoque en mi proyecto curricular de Ingería Catastral y Geodesia, como ingenieros con herramientas y bases sólidas de programación, podemos aportar en el campo de procesamiento de datos, sistemas de información geográfica (SIG), o aún más importante, crear programas que nos brinden mayor facilidad al momento de explicar nuestra labor y propósito en diferentes terrenos en los que distintas comunidades se ven involucradas, programas que nos permitan generar una cercanía con las comunidades y brindarles herramientas que les ayuden a reconocer cómo se llevará a cabo cualquier proyecto y sus propios derechos sobre su tierra, proyectos que promuevan la conciencia y el saber. Si logramos todo esto, marcamos la diferencia, estamos dando un gran paso adelante e integrando métodos que miran hacia el futuro, velando por la seguridad e integridad de las personas. Por eso, estoy en proceso de exploración de los diferentes tipos de lenguaje de programación, enfocándome en JAVA, y cada día aprendiendo cosas nuevas.
