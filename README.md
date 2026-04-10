@@ -1,9 +1,9 @@
-# <img src="https://eslamoda.com/wp-content/uploads/sites/2/2025/08/descargar-63.jpg" width=18% align=right /> Hola! Mi nombre es Sofia
+# <img src="https://eslamoda.com/wp-content/uploads/sites/2/2025/08/descargar-63.jpg" width=12% align=right /> Hola! Mi nombre es Sofia
 **Estudiante de Ingenieria Catastral y geodesia**
 
 **Cursando la asignatura de Programacion Orientada a Objetos**
 
-<img src="https://wallpaperaccess.com/full/5396658.jpg" width=100% height=250px object-fit:cover/>
+<img src="https://wallpaperaccess.com/full/5396658.jpg" width=100% height=150px object-fit:cover/>
 
 <!--
 **sooofixr/sooofixr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
